@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\s014186m\\documents\\github\\collab_2025\\colab_2025\\intermediate\\build\\win64\\unrealeditor\\inc\\colab_2025\\uht\\myactor.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\s014186m\\documents\\github\\collab_2025\\colab_2025\\intermediate\\build\\win64\\x64\\colab_2025editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\s014186m\\documents\\github\\collab_2025\\colab_2025\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\colab_2025\\definitions.colab_2025.h",
+            "c:\\users\\s014186m\\documents\\github\\collab_2025\\colab_2025\\source\\colab_2025\\myactor.h",
+            "c:\\users\\s014186m\\documents\\github\\collab_2025\\colab_2025\\intermediate\\build\\win64\\unrealeditor\\inc\\colab_2025\\uht\\myactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
