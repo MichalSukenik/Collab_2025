@@ -18,5 +18,5 @@ public:
 
 	/*Get the Location from the Actor Component to another Actor*/
 	UFUNCTION(BlueprintPure,BlueprintCallable,Category="Extra Nodes")
-	float GetDistanceTo(const USceneComponent* ActorA_Component, const AActor* OtherActor = nullptr, const USceneComponent* ActorB_Component);
+	float GetDistanceTo(const AActor* OtherActor = nullptr, USceneComponent* ActorComponent = nullptr, USceneComponent* OtherComponent = nullptr);
 };
