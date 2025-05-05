@@ -3,17 +3,7 @@
 	"EngineAssociation": "5.4",
 	"Category": "",
 	"Description": "",
-	"Modules": [
-		{
-			"Name": "Colab_2025",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	],
-	"Plugins": [
+		"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true,
